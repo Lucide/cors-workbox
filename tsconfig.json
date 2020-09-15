@@ -1,0 +1,15 @@
+{
+  "files": [],
+  "include": [],
+  "references": [
+    {
+      "path": "ts/configs"
+    },
+    {
+      "path": "ts/app"
+    },
+    {
+      "path": "ts/sw"
+    }
+  ]
+}

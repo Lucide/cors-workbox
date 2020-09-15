@@ -1,0 +1,1 @@
+cors requests sometimes fail
